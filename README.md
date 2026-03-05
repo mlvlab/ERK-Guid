@@ -3,12 +3,8 @@
   <p>Inho Kong*, Sojin Lee*, Youngjoon Hong†, Hyunwoo J. Kim†</p>
   
   <p>
-    <a href="https://openreview.net/forum?id=wKX9OL0leb" target='_blank'>
-      <img src="https://img.shields.io/badge/ICLR-2026-4b44ce.svg" alt="ICLR 2026">
-    </a>
-    <!-- <a href="https://arxiv.org/abs/xxxx.xxxxx" target='_blank'>
-      <img src="https://img.shields.io/badge/arXiv-2400.00000-b31b1b.svg" alt="arXiv">
-    </a> -->
+    <a href="https://openreview.net/forum?id=wKX9OL0leb"><img src="https://img.shields.io/badge/ICLR-2026-4b44ce.svg" alt="ICLR 2026"></a>
+    <a href="https://arxiv.org/abs/2603.03692"><img src="https://img.shields.io/badge/arXiv-2603.03692-b31b1b.svg" alt="arXiv"></a>
   </p>
 </div>
 
@@ -94,7 +90,7 @@ If you find this code useful for your research, please cite our paper:
   author={Kong, Inho and Lee, Sojin and Hong, Youngjoon and Kim, Hyunwoo J},
   booktitle={International Conference on Learning Representations (ICLR)},
   year={2026},
-  note={Accepted to ICLR 2026}
+  note={To appear. Also available at arXiv:2603.03692}
 }
 ```
 
