@@ -93,7 +93,8 @@ If you find this code useful for your research, please cite our paper:
   title={Error as Signal: Stiffness-Aware Diffusion Sampling via Embedded Runge-Kutta Guidance},
   author={Kong, Inho and Lee, Sojin and Hong, Youngjoon and Kim, Hyunwoo J},
   booktitle={International Conference on Learning Representations (ICLR)},
-  year={2026}
+  year={2026},
+  note={Accepted to ICLR 2026}
 }
 ```
 
